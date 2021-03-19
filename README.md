@@ -12,6 +12,6 @@ The file ``t13balpha0_data.txt`` contains the following data for each parameter 
 
 The ``examples`` directory contains a plotting script ``plot.py`` that generates simplified versions of the plots from our paper.
 
-**We currently can not provide more data, in order to protect an ongoing analysis. We will subsequently upload more data (e.g. annihilation channels) once the respective work is published.**
+**We currently do not provide further data because of an ongoing analysis. We will subsequently upload more data (e.g. annihilation channels) once the respective work is published.**
 
 Contact: michael.klasen@uni-muenster.de
