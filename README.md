@@ -3,7 +3,7 @@ This repository contains data from our study "New constraints on radiative seesa
 
 The file ``t13balpha0_data.txt`` contains the following data for each parameter point:
 
-- ``IC86events``: Number of expected signal events in IceCube (86-string configuration), in units of [1/GeV]
+- ``IC86events``: Number of expected signal events in IceCube (86-string configuration), in units of [1/year]
 - ``sigpSI``: Spin-independent DM-proton scattering cross section, in units of [pb]
 - ``sigpSD``: Spin-dependent DM-proton scattering cross section, in units of [pb]
 - ``sig*v``: Velocity-averaged annihilation cross section, in units of [cm^3 s^-1]

@@ -1,4 +1,4 @@
-#IC86events[1/GeV]	sigpSI[pb]	sigpSD[pb]	sig*v[cm^3/s]	mdm[GeV]	DM[Fermion|Scalar]
+#IC86events[1/year]	sigpSI[pb]	sigpSD[pb]	sig*v[cm^3/s]	mdm[GeV]	DM[Fermion|Scalar]
 5.3273e-09 1.0891e-13 0.0000e+00 5.7307e-26 1.8373e+03 S
 2.2967e-04 2.5528e-11 0.0000e+00 5.8329e-26 1.8517e+03 S
 3.9606e+02 1.6250e-08 1.4709e-03 6.2820e-27 1.2987e+02 F
